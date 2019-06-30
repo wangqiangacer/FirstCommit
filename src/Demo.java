@@ -4,6 +4,7 @@ public class Demo {
         System.out.println("wagnqiang");
         System.out.println("wagnqian111g");
         System.out.println("124");
+        System.out.println("first commit message");
 
     }
 }
