@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../VolatileDemo/VolatileDemo.iml" filepath="$PROJECT_DIR$/../VolatileDemo/VolatileDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jenkins-demo/jenkins-demo.iml" filepath="$PROJECT_DIR$/../jenkins-demo/jenkins-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../oom-demo/oom-demo.iml" filepath="$PROJECT_DIR$/../oom-demo/oom-demo.iml" />
     </modules>
   </component>
 </project>
