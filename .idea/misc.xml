@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../springboot-demo/springboot-jsp" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/../jenkins-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/../rocketmq-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/../xxl-job/pom.xml" />
+        <option value="$PROJECT_DIR$/../quartz-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/../httpclient/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-demo/springboot-jsp/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-jsp-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-jdbc/pom.xml" />
       </list>
     </option>
   </component>

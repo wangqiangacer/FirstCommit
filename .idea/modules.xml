@@ -4,8 +4,15 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/../VolatileDemo/VolatileDemo.iml" filepath="$PROJECT_DIR$/../VolatileDemo/VolatileDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../httpclient/httpclient.iml" filepath="$PROJECT_DIR$/../httpclient/httpclient.iml" />
       <module fileurl="file://$PROJECT_DIR$/../jenkins-demo/jenkins-demo.iml" filepath="$PROJECT_DIR$/../jenkins-demo/jenkins-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/../oom-demo/oom-demo.iml" filepath="$PROJECT_DIR$/../oom-demo/oom-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../quartz-demo/quartz-demo.iml" filepath="$PROJECT_DIR$/../quartz-demo/quartz-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../rocketmq-demo/rocketmq-demo.iml" filepath="$PROJECT_DIR$/../rocketmq-demo/rocketmq-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot-jdbc/springboot-jdbc.iml" filepath="$PROJECT_DIR$/../springboot-jdbc/springboot-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot-demo/springboot-jsp/springboot-jsp.iml" filepath="$PROJECT_DIR$/../springboot-demo/springboot-jsp/springboot-jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot-jsp-demo/springboot-jsp-demo.iml" filepath="$PROJECT_DIR$/../springboot-jsp-demo/springboot-jsp-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xxl-job/springboot-xx-ljob.iml" filepath="$PROJECT_DIR$/../xxl-job/springboot-xx-ljob.iml" />
     </modules>
   </component>
 </project>
